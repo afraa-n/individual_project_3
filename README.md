@@ -1,9 +1,8 @@
-# IDS_706-Data_Engineering_Systems
-## Individual-Project 3: Databricks ETL (Extract Transform Load) Pipeline
+# Databricks ETL (Extract Transform Load) Pipeline
 
 ### PURPOSE
 
-This project is for the data engineering course (Individual-Project 3). The purpose of this project is to develop a data pipeline using Databricks. The primary goal is to create an efficient and functional pipeline that includes at least one data source and one data sink.
+The purpose of this repo is to develop a data pipeline using Databricks. The primary goal is to create an efficient and functional pipeline that includes at least one data source and one data sink.
 
 Dataset: [Iris Dataset](https://gist.github.com/netj/8836201)
 
